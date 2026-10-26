@@ -4,8 +4,8 @@
 **Interfaz / Modalidad:** Consola — SDL3 optativo — 1 jugador  
 
 ## Integrantes y aportes
-- Daniel Agustín Herrera
-- Santiago Arranz
+- Daniel Agustín Herrera (@Agusprogyeshua)
+- Santiago Arranz (@SantiagoArranz)
 
 ## Reglas y alcance
 La propuesta contempla un menú principal con las opciones jugar, ver ranking, consultar las reglas y salir.
